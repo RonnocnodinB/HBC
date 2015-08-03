@@ -1,0 +1,16 @@
+body {
+    background-image: url("../image/development.jpg");
+}
+
+.jumbotron {
+    margin-top: 6%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.music {
+    position: fixed;
+    right: 15px;
+    bottom: 5px;
+    height:auto;
+}
