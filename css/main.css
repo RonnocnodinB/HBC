@@ -1,0 +1,20 @@
+body {
+    background: url("../image/home.jpg");
+    background-attachment: fixed;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.contribution {
+  text-align: center;
+  color: lightgray;
+  font-size: 8pt;
+}
